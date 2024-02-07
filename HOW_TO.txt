@@ -1,0 +1,4 @@
+Program zaczytuje dane o kursach walut ze strony mybank.pl.
+Następnie z użyciem biblioteki tkinter tworzy interfejs graficzny.
+Użytkownik wprowadza tam kwotę i wybiera z listy waluty na którą i z której ma być przeliczona.
+Pod dokonaniu obliczeń wyświetla wynik.
